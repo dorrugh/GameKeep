@@ -13,7 +13,7 @@ Pre-requisites and installation steps for running the `gamekeep.py` script on yo
   ssh root@<PI_IP>
   ```
 
-  Replace `<PI_IP>` with your Pi’s IP address (e.g., `192.168.4.60`).
+  Replace `<PI_IP>` with your Pi’s IP address (e.g., `192.167.9.70`).
 
 ---
 
