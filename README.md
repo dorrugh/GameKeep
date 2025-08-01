@@ -62,7 +62,6 @@ chmod +x /userdata/system/custom.sh
 
    ```bash
    source venv/bin/activate
-   pip install flask pillow
    deactivate
    ```
 
